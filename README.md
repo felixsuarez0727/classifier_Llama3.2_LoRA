@@ -1,6 +1,6 @@
 # Llama_rfu_LoRa - Modelo de regresión de Péptidos
 
-## Tabla de Contenidos
+## Tabla de contenido
 
 - [Introducción](#introducción)
 - [Requisitos Previos](#requisitos-previos)
