@@ -1,5 +1,13 @@
 # Llama_rfu_LoRa - Modelo de regresión de Péptidos
 
+## Tabla de Contenidos
+
+- [Introducción](#introducción)
+- [Requisitos Previos](#requisitos-previos)
+- [Uso](#uso)
+- [Resultados del Test](#resultados-del-test)
+- [Consideraciones Técnicas](#consideraciones-técnicas)
+
 ## Introducción
 
 Este repositorio contiene el notebook `Llama_rfu_QLoRa.ipynb` para la regresión de péptidos utilizando el modelo Llama3-2_1b de Meta, implementado mediante LoRA (Low-Rank Adaptation) para optimización de recursos.
